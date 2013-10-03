@@ -1,0 +1,4 @@
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\AnimalLibrary\bin\Debug\AnimalLibrary.dll
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\AnimalLibrary\bin\Debug\AnimalLibrary.pdb
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\AnimalLibrary\obj\Debug\AnimalLibrary.dll
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\AnimalLibrary\obj\Debug\AnimalLibrary.pdb

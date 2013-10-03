@@ -1,0 +1,28 @@
+c:\users\rajeshk\documents\visual studio 2012\Projects\WindsorCastleWCFService\CastleWindsorInWCF\bin\CastleWindsorInWCF.dll
+c:\users\rajeshk\documents\visual studio 2012\Projects\WindsorCastleWCFService\CastleWindsorInWCF\bin\CastleWindsorInWCF.pdb
+c:\users\rajeshk\documents\visual studio 2012\Projects\WindsorCastleWCFService\CastleWindsorInWCF\obj\Debug\CastleWindsorInWCF.csprojResolveAssemblyReference.cache
+c:\users\rajeshk\documents\visual studio 2012\Projects\WindsorCastleWCFService\CastleWindsorInWCF\obj\Debug\CastleWindsorInWCF.dll
+c:\users\rajeshk\documents\visual studio 2012\Projects\WindsorCastleWCFService\CastleWindsorInWCF\obj\Debug\CastleWindsorInWCF.pdb
+c:\users\rajeshk\documents\visual studio 2012\Projects\WindsorCastleWCFService\CastleWindsorInWCF\bin\Castle.Core.dll
+c:\users\rajeshk\documents\visual studio 2012\Projects\WindsorCastleWCFService\CastleWindsorInWCF\bin\Castle.Facilities.WcfIntegration.dll
+c:\users\rajeshk\documents\visual studio 2012\Projects\WindsorCastleWCFService\CastleWindsorInWCF\bin\Castle.Windsor.dll
+c:\users\rajeshk\documents\visual studio 2012\Projects\WindsorCastleWCFService\CastleWindsorInWCF\bin\Castle.Core.xml
+c:\users\rajeshk\documents\visual studio 2012\Projects\WindsorCastleWCFService\CastleWindsorInWCF\bin\Castle.Facilities.WcfIntegration.xml
+c:\users\rajeshk\documents\visual studio 2012\Projects\WindsorCastleWCFService\CastleWindsorInWCF\bin\Castle.Windsor.xml
+C:\Users\rajeshk\documents\visual studio 2012\Projects\WindsorCastleWCFService\CastleWindsorInWCF\bin\WCFServiceComponent.dll
+C:\Users\rajeshk\documents\visual studio 2012\Projects\WindsorCastleWCFService\CastleWindsorInWCF\bin\WCFServiceComponent.pdb
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\CastleWindsorInWCF\bin\CastleWindsorInWCF.dll
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\CastleWindsorInWCF\bin\CastleWindsorInWCF.pdb
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\CastleWindsorInWCF\bin\AnimalLibrary.dll
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\CastleWindsorInWCF\bin\Castle.Core.dll
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\CastleWindsorInWCF\bin\Castle.Facilities.WcfIntegration.dll
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\CastleWindsorInWCF\bin\Castle.Windsor.dll
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\CastleWindsorInWCF\bin\WCFServiceComponent.dll
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\CastleWindsorInWCF\bin\AnimalLibrary.pdb
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\CastleWindsorInWCF\bin\WCFServiceComponent.pdb
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\CastleWindsorInWCF\bin\Castle.Core.xml
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\CastleWindsorInWCF\bin\Castle.Facilities.WcfIntegration.xml
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\CastleWindsorInWCF\bin\Castle.Windsor.xml
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\CastleWindsorInWCF\obj\Debug\CastleWindsorInWCF.csprojResolveAssemblyReference.cache
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\CastleWindsorInWCF\obj\Debug\CastleWindsorInWCF.dll
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\CastleWindsorInWCF\obj\Debug\CastleWindsorInWCF.pdb

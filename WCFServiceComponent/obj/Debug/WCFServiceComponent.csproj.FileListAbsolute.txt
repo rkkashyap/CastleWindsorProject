@@ -1,0 +1,11 @@
+C:\Users\rajeshk\documents\visual studio 2012\Projects\WindsorCastleWCFService\WCFServiceComponent\bin\Debug\WCFServiceComponent.dll.config
+C:\Users\rajeshk\documents\visual studio 2012\Projects\WindsorCastleWCFService\WCFServiceComponent\bin\Debug\WCFServiceComponent.dll
+C:\Users\rajeshk\documents\visual studio 2012\Projects\WindsorCastleWCFService\WCFServiceComponent\bin\Debug\WCFServiceComponent.pdb
+C:\Users\rajeshk\documents\visual studio 2012\Projects\WindsorCastleWCFService\WCFServiceComponent\obj\Debug\WCFServiceComponent.csprojResolveAssemblyReference.cache
+C:\Users\rajeshk\documents\visual studio 2012\Projects\WindsorCastleWCFService\WCFServiceComponent\obj\Debug\WCFServiceComponent.dll
+C:\Users\rajeshk\documents\visual studio 2012\Projects\WindsorCastleWCFService\WCFServiceComponent\obj\Debug\WCFServiceComponent.pdb
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\WCFServiceComponent\bin\Debug\WCFServiceComponent.dll.config
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\WCFServiceComponent\bin\Debug\WCFServiceComponent.dll
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\WCFServiceComponent\bin\Debug\WCFServiceComponent.pdb
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\WCFServiceComponent\obj\Debug\WCFServiceComponent.dll
+D:\Rajesh Development\Castle Windsor Example\WindsorCastleWCFService\WCFServiceComponent\obj\Debug\WCFServiceComponent.pdb
